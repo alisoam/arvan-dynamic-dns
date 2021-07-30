@@ -1,7 +1,7 @@
 # Arvan Dynamic DNS
 
 A dynamic dns client using Arvan cloud DNS service.
-Befor start you shoud have a domain in the Arvan cloud pannel.
+Before start you shoud have a domain in the Arvan cloud pannel.
 
 This script, periodically, updates the selected record in the Arvan cloud DNS
 service with the IP address of the running host.
